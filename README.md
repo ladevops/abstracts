@@ -1,4 +1,4 @@
-# [LA DevOps] upcoming speakers and abstracts 
+# LA DevOps upcoming speakers and abstracts 
 ## because we really want your talk
 
 This repo lets us more easily track [LA Dev/Ops](http://meetup.com/ladevops)
