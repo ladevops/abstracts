@@ -12,4 +12,4 @@ In this talk Justin and Josh will discuss how Bootstrap CDN came to be, how the 
 [Twitter](https://twitter.com/mervinej) - [GitHub](https://github.com/jmervine) - [Blog](http://mervine.net/)
 
 ### Josh's Abstract:
-> Josh will discuss how he got involved, the stack (Version 2), ...
+> Josh will discuss how he got involved, the stack (Version 2), continous deployment in action and why Node.js.
